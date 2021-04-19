@@ -1,2 +1,2 @@
 # text-self-introduction
-自我介绍
+我的自我介绍
